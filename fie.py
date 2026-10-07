@@ -1,0 +1,2 @@
+print("CRISTIANO")
+print("RONALDO")
